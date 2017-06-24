@@ -7,7 +7,8 @@ Note:
 1. This code should be a little bit differ from my submission on Public and Private Leaderboard because of the seed setting.
 2. The time of training the classification model may take a long time, because I use the computer with 24 cores. 
 
-### My Approach and Model Structure
+### My Approach and Detail
+Please see: [link](https://docs.google.com/document/d/1TdLRWqREfTGnTHIxRBS3PlRMOrRrDW-YN3qwLz3rU1I/edit#)
 
 ![model structure](model_structure.png)
 
