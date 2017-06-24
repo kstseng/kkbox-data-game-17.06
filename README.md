@@ -13,6 +13,5 @@ Note:
 
 ### How to run program
 
-1. Make a folder named `data`.
-2. Download and unzip the data, and put it into folder `data`.
-3. Execute `run.R`.
+1. Download and unzip the data, and put it into folder `data`.
+2. Execute `run.R`.
