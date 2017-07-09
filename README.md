@@ -8,7 +8,7 @@ Note:
 2. The time of training the classification model may take a long time, because I use the computer with 24 cores. 
 
 ### My Approach and Detail
-Please see: [link](https://docs.google.com/document/d/1TdLRWqREfTGnTHIxRBS3PlRMOrRrDW-YN3qwLz3rU1I/edit#)
+Please see: [link](https://medium.com/@kstseng/kkbox-data-game-17-06-1st-place-solution-2baa14aee5f4)
 
 ![model structure](model_structure.png)
 
